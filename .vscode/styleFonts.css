@@ -1,0 +1,13 @@
+@font-face {
+    font-family:'GT-Alpina-Extended-Bold-Italic';
+    src: url('CSS/fonts/GT-Alpina-Extended-Bold-Italic.woff2');
+}
+
+@font-face {
+    font-family:'GT-Alpina-Extended-Regular-Trial';
+    src: url('CSS/fonts/GT-Alpina-Extended-Regular-Trial.woff2');
+}
+
+h1 {
+    font-family: 'GT-Alpina-Extended-Bold-Italic';
+}
